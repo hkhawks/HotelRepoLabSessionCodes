@@ -1,0 +1,54 @@
+2021-10-24 20:00:17,204 - logger file -INFO - Login to Hotel Started
+2021-10-24 20:00:17,204 [main] INFO logger file - Login to Hotel Started
+2021-10-24 20:00:38,884 - logger file -INFO - Login to Hotel Started
+2021-10-24 20:00:38,884 [main] INFO logger file - Login to Hotel Started
+2021-10-24 20:01:44,135 - logger file -INFO - Login to Hotel Started
+2021-10-24 20:01:44,135 [main] INFO logger file - Login to Hotel Started
+2021-10-24 20:06:31,913 - logger_file -INFO - Login to Hotel Started
+2021-10-24 20:06:31,913 [main] INFO logger_file - Login to Hotel Started
+2021-10-24 20:06:38,376 - logger_file -INFO - Login to Hotel UNDEFINED
+2021-10-24 20:06:38,376 [main] INFO logger_file - Login to Hotel UNDEFINED
+2021-10-24 20:11:29,607 - logger_file -INFO - Login to Hotel Started
+2021-10-24 20:11:29,607 [main] INFO logger_file - Login to Hotel Started
+2021-10-24 20:11:34,142 - logger_file -INFO - Login to Hotel PASSED
+2021-10-24 20:11:34,142 [main] INFO logger_file - Login to Hotel PASSED
+2021-10-24 20:41:05,539 - logger_file -INFO - Login to Hotel Started
+2021-10-24 20:41:05,539 [main] INFO logger_file - Login to Hotel Started
+2021-10-24 20:41:10,403 - logger_file -INFO - Hotel  is equal to Hotel
+2021-10-24 20:41:10,403 [main] INFO logger_file - Hotel  is equal to Hotel
+2021-10-24 20:41:10,775 - logger_file -INFO - user clicked on signIn
+2021-10-24 20:41:10,775 [main] INFO logger_file - user clicked on signIn
+2021-10-24 20:41:10,871 - logger_file -INFO - signin page is displayed
+2021-10-24 20:41:10,871 [main] INFO logger_file - signin page is displayed
+2021-10-24 20:41:11,057 - logger_file -INFO - Login to Hotel PASSED
+2021-10-24 20:41:11,057 [main] INFO logger_file - Login to Hotel PASSED
+2021-10-24 20:45:44,913 - logger_file -INFO - Login to Hotel Started
+2021-10-24 20:45:44,913 [main] INFO logger_file - Login to Hotel Started
+2021-10-24 20:45:49,135 - logger_file -INFO - Hotel  is equal to Hotel
+2021-10-24 20:45:49,135 [main] INFO logger_file - Hotel  is equal to Hotel
+2021-10-24 20:45:49,558 - logger_file -INFO - user clicked on signIn
+2021-10-24 20:45:49,558 [main] INFO logger_file - user clicked on signIn
+2021-10-24 20:45:49,651 - logger_file -INFO - signin page is displayed
+2021-10-24 20:45:49,651 [main] INFO logger_file - signin page is displayed
+2021-10-24 20:45:49,894 - logger_file -INFO - Login to Hotel PASSED
+2021-10-24 20:45:49,894 [main] INFO logger_file - Login to Hotel PASSED
+2021-10-24 20:50:08,690 - logger_file -INFO - Login to Hotel Started
+2021-10-24 20:50:08,690 [main] INFO logger_file - Login to Hotel Started
+2021-10-24 20:50:14,853 - logger_file -INFO - Hotel  is equal to Hotel
+2021-10-24 20:50:14,853 [main] INFO logger_file - Hotel  is equal to Hotel
+2021-10-24 20:50:15,270 - logger_file -INFO - user clicked on signIn
+2021-10-24 20:50:15,270 [main] INFO logger_file - user clicked on signIn
+2021-10-24 20:50:15,364 - logger_file -INFO - signin page is displayed
+2021-10-24 20:50:15,364 [main] INFO logger_file - signin page is displayed
+2021-10-24 20:50:15,536 - logger_file -INFO - Login to Hotel PASSED
+2021-10-24 20:50:15,536 [main] INFO logger_file - Login to Hotel PASSED
+2021-10-24 20:51:16,904 - logger_file -INFO - Login to Hotel Started
+2021-10-24 20:51:16,904 [main] INFO logger_file - Login to Hotel Started
+2021-10-24 20:51:20,709 - logger_file -INFO - Hotel  is equal to Hotel
+2021-10-24 20:51:20,709 [main] INFO logger_file - Hotel  is equal to Hotel
+2021-10-24 20:51:21,269 - logger_file -INFO - user clicked on signIn
+2021-10-24 20:51:21,269 [main] INFO logger_file - user clicked on signIn
+2021-10-24 20:51:21,365 - logger_file -INFO - signin page is displayed
+2021-10-24 20:51:21,365 [main] INFO logger_file - signin page is displayed
+2021-10-24 20:51:21,535 - logger_file -INFO - Login to Hotel PASSED
+2021-10-24 20:51:21,535 [main] INFO logger_file - Login to Hotel PASSED

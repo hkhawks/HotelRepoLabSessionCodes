@@ -1,0 +1,3 @@
+core\Base.class
+pageObjects\HotelHomePageObject.class
+utilities\CucumberReporting.class
